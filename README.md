@@ -1,7 +1,16 @@
 ![github-header-image](https://github.com/NickyViNi/NickyViNi/assets/143028175/300d6b58-e137-45ed-a630-db1520f1d677)
 
 # 💫 About Me
-Hi, my friends! Welcome to my homepage!
+Hi, my friends! Welcome to my homepage! let me introduce myself to you.
+Driven by a relentless curiosity and a thirst for diverse knowledge, I embarked on an academic journey that spanned multiple disciplines. From the depths of the ocean to the intricacies of finance, and finally to the world of software engineering, I've always embraced the thrill of discovery. This lifelong love of learning has fueled my continuous pursuit of new knowledge and skills.
+
+Through App Academy's intensive Coding BootCamp, I've honed a strong foundation in computer science fundamentals. I'm proficient in data structures and algorithms, which allows me to approach problems from a logical and efficient perspective. Additionally, I've mastered a range of programming languages, including Python, JavaScript, and Java. This versatility empowers me to adapt to different project requirements and choose the best tool for the job. My understanding extends beyond syntax, as I've solidified my grasp of object-oriented design and development principles. This allows me to create well-structured, maintainable, and scalable code.
+
+Furthermore, App Academy fostered my experience in full-stack development. I've tackled ambitious projects, replicating popular platforms like Airbnb, Slack, and Robinhood. These projects allowed me to delve into both front-end and back-end technologies. I'm well-versed in front-end frameworks like React, which enables me to build sleek and interactive user interfaces. On the back-end development, I'm comfortable with frameworks like Flask and Express, allowing me to manage data efficiently and power the application's logic.
+
+Outside of coding, I enjoy exploring the great outdoors, whether it's hiking through scenic trails or capturing moments through my camera lens. I'm also a travel enthusiast and love to visit different countries to explore different experiences.
+
+Let's connect and explore opportunities to collaborate on exciting projects or discuss the latest developments in software engineering. Whether you're looking to build cutting-edge applications or optimize existing systems, I'm here to help turn your vision into reality!
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicky-li/)
