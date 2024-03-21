@@ -2,6 +2,7 @@
 
 # 💫 About Me
 Hi, my friends! Welcome to my homepage! let me introduce myself to you.
+
 Driven by a relentless curiosity and a thirst for diverse knowledge, I embarked on an academic journey that spanned multiple disciplines. From the depths of the ocean to the intricacies of finance, and finally to the world of software engineering, I've always embraced the thrill of discovery. This lifelong love of learning has fueled my continuous pursuit of new knowledge and skills.
 
 Through App Academy's intensive Coding BootCamp, I've honed a strong foundation in computer science fundamentals. I'm proficient in data structures and algorithms, which allows me to approach problems from a logical and efficient perspective. Additionally, I've mastered a range of programming languages, including Python, JavaScript, and Java. This versatility empowers me to adapt to different project requirements and choose the best tool for the job. My understanding extends beyond syntax, as I've solidified my grasp of object-oriented design and development principles. This allows me to create well-structured, maintainable, and scalable code.
