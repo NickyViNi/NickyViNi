@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/NickyViNi/NickyViNi/assets/143028175/300d6b58-e137-45ed-a630-db1520f1d677)
 
 # 💫 About Me
-Hi, my friends! Welcome to my homepage! let me introduce myself to you.
+Hi, my friends! Welcome to my homepage! Here is my portfolio: [Nicky Li](https://nickyvini.github.io/)
 
 Driven by a relentless curiosity and a thirst for diverse knowledge, I embarked on an academic journey that spanned multiple disciplines. From the depths of the ocean to the intricacies of finance, and finally to the world of software engineering, I've always embraced the thrill of discovery. This lifelong love of learning has fueled my continuous pursuit of new knowledge and skills.
 
