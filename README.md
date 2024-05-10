@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/NickyViNi/NickyViNi/assets/143028175/300d6b58-e137-45ed-a630-db1520f1d677)
 
 # 💫 About Me
-Hi, my friends! Welcome to my homepage! let me introduce myself to you.
+Hi, my friends! Welcome to my homepage! Here is my portfolio site: [Nicky Li](https://nickyvini.github.io/)
 
 My curiosity is a bottomless pit, leading me from ocean depths to finance to the thrill of coding. Now, I'm a software engineer with a love for learning and building cool things.  I can tackle both the front-end (think fancy user interfaces) and back-end (the engine that makes it work) thanks to App Academy and my adventures in building websites like GorgeousBnB and ViNiInvest. When I'm not coding, you'll find me hiking, taking photos, or exploring new places. Let's connect and create something awesome together!
 
@@ -41,7 +41,7 @@ My curiosity is a bottomless pit, leading me from ocean depths to finance to the
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NickyViNi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NickyViNi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NickyViNi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyViNi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -51,11 +51,11 @@ My curiosity is a bottomless pit, leading me from ocean depths to finance to the
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NickyViNi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NickyViNi&icon=0&color=0)](https://visitcount.itsvg.in)
