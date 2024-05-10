@@ -42,9 +42,9 @@ My curiosity is a bottomless pit, leading me from ocean depths to finance to the
 
 # 💎 Projects
 
-| Preview | Title/Links |Description | Features | Technologies |
+| Name/Preview | Link/Repo |Description | Features | Technologies |
 |---------|-------|-------------|----------|--------------|
-| ![image](./images/viniinvest.gif) |
+| **ViNiInvest** <br><br> ![image](./images/viniinvest.gif) | [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)](https://viniinvest.onrender.com) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/NickyViNi/ViNiInvest) | Inspired by the Robinhood investment website, I developed a small stock simulation trading website, especially suitable for novices to start their stock investment journey! | Portfolios<br> Stocks<br> Transactions<br> Analyses<br>News<br>Search | ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white) <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) <br> |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NickyViNi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
