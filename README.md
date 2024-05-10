@@ -3,15 +3,7 @@
 # 💫 About Me
 Hi, my friends! Welcome to my homepage! let me introduce myself to you.
 
-Driven by a relentless curiosity and a thirst for diverse knowledge, I embarked on an academic journey that spanned multiple disciplines. From the depths of the ocean to the intricacies of finance, and finally to the world of software engineering, I've always embraced the thrill of discovery. This lifelong love of learning has fueled my continuous pursuit of new knowledge and skills.
-
-Through App Academy's intensive Coding BootCamp, I've honed a strong foundation in computer science fundamentals. I'm proficient in data structures and algorithms, which allows me to approach problems from a logical and efficient perspective. Additionally, I've mastered a range of programming languages, including Python, JavaScript, and Java. This versatility empowers me to adapt to different project requirements and choose the best tool for the job. My understanding extends beyond syntax, as I've solidified my grasp of object-oriented design and development principles. This allows me to create well-structured, maintainable, and scalable code.
-
-Furthermore, App Academy fostered my experience in full-stack development. I've tackled ambitious projects, replicating popular platforms like Airbnb, Slack, and Robinhood. These projects allowed me to delve into both front-end and back-end technologies. I'm well-versed in front-end frameworks like React, which enables me to build sleek and interactive user interfaces. On the back-end development, I'm comfortable with frameworks like Flask and Express, allowing me to manage data efficiently and power the application's logic.
-
-Outside of coding, I enjoy exploring the great outdoors, whether it's hiking through scenic trails or capturing moments through my camera lens. I'm also a travel enthusiast and love to visit different countries to explore different experiences.
-
-Let's connect and explore opportunities to collaborate on exciting projects or discuss the latest developments in software engineering. Whether you're looking to build cutting-edge applications or optimize existing systems, I'm here to help turn your vision into reality!
+My curiosity is a bottomless pit, leading me from ocean depths to finance to the thrill of coding. Now, I'm a software engineer with a love for learning and building cool things.  I can tackle both the front-end (think fancy user interfaces) and back-end (the engine that makes it work) thanks to App Academy and my adventures in building websites like GorgeousBnB and ViNiInvest. When I'm not coding, you'll find me hiking, taking photos, or exploring new places. Let's connect and create something awesome together!
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicky-li/)
