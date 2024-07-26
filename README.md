@@ -1,9 +1,10 @@
 ![github-header-image](https://github.com/NickyViNi/NickyViNi/assets/143028175/300d6b58-e137-45ed-a630-db1520f1d677)
 
 # 💫 About Me
-Hi, my friends! Welcome to my homepage! Here is my portfolio site: [Nicky Li](https://nickyvini.github.io/)
+Hi, my friends! Welcome to my homepage! 
+<!-- Here is my portfolio site: [Nicky Li](https://nickyvini.github.io/) -->
 
-My curiosity is a bottomless pit, leading me from ocean depths to finance to the thrill of coding. Now, I'm a software engineer with a love for learning and building cool things.  I can tackle both the front-end (think fancy user interfaces) and back-end (the engine that makes it work) thanks to App Academy and my adventures in building websites like GorgeousBnB and ViNiInvest. When I'm not coding, you'll find me hiking, taking photos, or exploring new places. Let's connect and create something awesome together!
+I'm Nicky. My curiosity is a bottomless pit, leading me from ocean depths to finance to the thrill of coding. Now, I'm a software engineer with a love for learning and building cool things.  I can tackle both the front-end (think fancy user interfaces) and back-end (the engine that makes it work) thanks to App Academy and my adventures in building websites like GorgeousBnB and ViNiInvest. When I'm not coding, you'll find me hiking, taking photos, or exploring new places. Let's connect and create something awesome together!
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicky-li/)
